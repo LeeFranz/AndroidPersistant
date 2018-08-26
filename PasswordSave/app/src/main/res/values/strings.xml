@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordSave</string>
+    <string name="open_sharedpref_page">Open SharedPref Page</string>
+    <string name="input_hint">input something</string>
+</resources>
